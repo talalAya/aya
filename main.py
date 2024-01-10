@@ -5,7 +5,7 @@ from db import Database
 db = Database("Employee.db")
 
 
-color1 = '#1d3557'
+color1 = '#1d3587'
 #main window نافذه صغيره داخل مكتبه التيكنتر
 root = Tk() 
 root.title("employees management system")
