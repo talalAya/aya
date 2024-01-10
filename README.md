@@ -7,9 +7,9 @@
 # Hi, I'm Aya! 👋
 
 
-# emplyee system
+# employee system
 
-It's a simple emplyee system , It provides basic processes add,delete and modification
+It's a simple employee system , It provides basic processes add,delete and modification
 
 
 ## Features
