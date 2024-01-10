@@ -204,7 +204,7 @@ btn_frame=Frame(ent_frame,bg=color1,bd=0,relief=SOLID)
 btn_frame.place(x=10,y=400,width=335,height=145)
 
 btn_add= Button(btn_frame,
-            text='add',
+            text='اضافة',
             width=14,
             height=1,
             font=('Calibri',16),
@@ -214,7 +214,7 @@ btn_add= Button(btn_frame,
             command=add_employee).place(x=4,y=9,)
 ########################################################
 btn_edit= Button(btn_frame,
-            text='update',
+            text='تعديل',
             width=14,
             height=1,
             font=('Calibri',16),
@@ -224,7 +224,7 @@ btn_edit= Button(btn_frame,
             command=update).place(x=4,y=56)   
 ########################################################
 btn_del= Button(btn_frame,
-            text='delete',
+            text='حذف',
             width=14,
             height=1,
             font=('Calibri',16),
@@ -234,7 +234,7 @@ btn_del= Button(btn_frame,
             command=delete).place(x=170,y=9)         
 ########################################################
 btn_clear= Button(btn_frame,
-            text='clear',
+            text='مسح',
             width=14,
             height=1,
             font=('Calibri',16),
@@ -244,7 +244,7 @@ btn_clear= Button(btn_frame,
             command=Clear).place(x=170,y=56)   
 #########################################################
 btn_refrsh= Button(btn_frame,
-            text='refrsh',
+            text='تحديث',
             width=29,
             height=1,
             font=('Calibri',16),
